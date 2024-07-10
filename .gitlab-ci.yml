@@ -1,5 +1,5 @@
 # https://hub.docker.com/repository/docker/comp1531/automarking/general
-image: comp1531/automarking:latest
+image: hrandeni/dpst1093-automarking:1.0
 
 stages:
   - checks
