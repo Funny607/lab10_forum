@@ -127,3 +127,4 @@ export const clear = async () => {
   console.log(`Data cleared: ${JSON.stringify(data)}`); 
   return {};
 };
+

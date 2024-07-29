@@ -4,7 +4,6 @@ import cors from 'cors';
 import fs from 'fs';
 import morgan from 'morgan';
 import fetch from 'node-fetch';
-
 import { echo } from './echo';
 import errorHandler from './errorHandler';
 import { DATABASE_FILE, setData, postCreate, postsList, clear } from './forum';
